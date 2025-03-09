@@ -1,0 +1,144 @@
+{
+    "genres": [
+        {
+            "id": "1",
+            "label": "Pra Chorar",
+            "description": "Filmes feitos para te emocionar e arrancar lágrimas, seja por histórias tristes, inspiradoras ou extremamente tocantes."
+        },
+        {
+            "id": "2",
+            "label": "Espada",
+            "description": "Filmes épicos de guerreiros empunhando espadas, duelos honrosos e batalhas grandiosas ambientadas em tempos históricos ou mundos de fantasia."
+        },
+        {
+            "id": "3",
+            "label": "Dramédia",
+            "description": "Mistura perfeita entre drama e comédia, trazendo histórias envolventes que equilibram momentos emocionantes e engraçados."
+        },
+        {
+            "id": "4",
+            "label": "Body Horror",
+            "description": "O terror que mexe com o corpo humano de forma grotesca e perturbadora, abordando mutações, doenças e transformações bizarras."
+        },
+        {
+            "id": "5",
+            "label": "Adaptação de Livro",
+            "description": "Filmes baseados em livros, trazendo à tela histórias que já conquistaram leitores ao redor do mundo."
+        },
+        {
+            "id": "6",
+            "label": "Animal/Bicho",
+            "description": "Filmes protagonizados por animais ou com bichos de destaque, seja de forma realista, animada ou até mesmo fantasiosa."
+        },
+        {
+            "label": "Paródia",
+            "description": "Filmes que tiram sarro de outros filmes ou gêneros, cheios de humor irreverente e referências exageradas.",
+            "id": "7"
+        },
+        {
+            "id": "8",
+            "label": "Found Footage",
+            "description": "Histórias contadas por meio de 'filmagens encontradas', geralmente trazendo um tom realista e imersivo, muito popular no terror e suspense."
+        },
+        {
+            "id": "9",
+            "label": "Oscar Winner",
+            "description": "Filmes que levaram para casa a estatueta dourada, reconhecidos por sua qualidade cinematográfica e impacto na indústria."
+        },
+        {
+            "id": "10",
+            "label": "Espaço",
+            "description": "Explorações espaciais, batalhas intergalácticas, vida alienígena e o desconhecido do cosmos são os destaques desse gênero."
+        },
+        {
+            "id": "11",
+            "label": "Comédia Romântica",
+            "description": "O equilíbrio perfeito entre o romance e a comédia, garantindo histórias leves e divertidas sobre o amor."
+        },
+        {
+            "id": "12",
+            "label": "Brasileiro",
+            "description": "Filmes nacionais que exploram a cultura, os costumes e a criatividade do cinema brasileiro."
+        },
+        {
+            "id": "13",
+            "label": "Nicholas Cage",
+            "description": "Seja em filmes ruins, bons ou simplesmente bizarros, o carisma de Nicholas Cage faz deles uma experiência única."
+        },
+        {
+            "id": "14",
+            "label": "Preto e Branco",
+            "description": "Filmes que apostam no clássico visual monocromático, seja por escolha artística ou por serem de épocas passadas."
+        },
+        {
+            "id": "15",
+            "label": "Coming of Age",
+            "description": "Histórias sobre amadurecimento e descobertas, acompanhando personagens em momentos cruciais de suas vidas."
+        },
+        {
+            "id": "16",
+            "label": "Nota 3 - IMDB",
+            "description": "Filmes com avaliações bem baixas no IMDB, mas que podem surpreender... ou não."
+        },
+        {
+            "id": "17",
+            "label": "Bollywood",
+            "description": "O cinema indiano com toda sua extravagância, números musicais inesquecíveis e histórias emocionantes."
+        },
+        {
+            "id": "18",
+            "label": "Velho Oeste",
+            "description": "Duelo ao pôr do sol, pistoleiros lendários, saloons e a lei do mais rápido no gatilho marcam esse gênero clássico."
+        },
+        {
+            "id": "19",
+            "label": "Desastre",
+            "description": "Filmes sobre grandes catástrofes, sejam elas naturais, acidentes ou apocalipses iminentes."
+        },
+        {
+            "id": "20",
+            "label": "Viagem no Tempo",
+            "description": "Histórias que brincam com o tempo, criando paradoxos, aventuras temporais e realidades alternativas."
+        },
+        {
+            "id": "21",
+            "label": "Sessão da Tarde",
+            "description": "Filmes leves e nostálgicos que marcaram as tardes da TV, cheios de aventura, humor e emoção."
+        },
+        {
+            "id": "22",
+            "label": "Nota 9+ IMDB",
+            "description": "Filmes altamente aclamados, com notas altíssimas no IMDB, considerados verdadeiras obras-primas do cinema."
+        },
+        {
+            "id": "23",
+            "label": "Mockumentary",
+            "description": "Falsos documentários que satirizam ou brincam com a realidade, trazendo humor ou crítica social de forma original."
+        },
+        {
+            "id": "24",
+            "label": "Esportes",
+            "description": "Filmes que giram em torno do mundo esportivo, seja contando histórias reais ou ficcionais sobre atletas e competições."
+        },
+        {
+            "id": "25",
+            "label": "Premissa Ruim",
+            "description": "Filmes que, à primeira vista, têm ideias absurdas ou duvidosas, mas que podem acabar sendo geniais... ou não."
+        },
+        {
+            "id": "26",
+            "label": "Pós Apocalíptico",
+            "description": "Mundos destruídos, sociedades colapsadas e sobreviventes tentando se adaptar a uma nova realidade devastada por guerras, desastres ou invasões."
+        },
+        {
+            "id": "27",
+            "label": "Zumbi",
+            "description": "Mortos-vivos famintos, epidemias incontroláveis e grupos de sobreviventes tentando escapar do apocalipse zumbi, seja com terror, ação ou até humor."
+        },
+        {
+            "label": "Musical",
+            "description": "Não vale Emilia Perez, heinn",
+            "id": "3795"
+        }
+    ]
+}
